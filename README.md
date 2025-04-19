@@ -11,17 +11,28 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/to/develop-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+
+## Multiselect Dropdown for Flutter.
+
+A customizable, lightweight multiselect dropdown package for Flutter.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+✅ Checkbox-style multiselect  
+✅ Custom label mapping  
+✅ Easily embeddable in forms  
+✅ Works with any data model
 
-## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+## Installation
+
+Add to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  multiselect_dropdown:
+    git:
+      url: https://github.com/yourusername/multiselect_dropdown.git
 
 ## Usage
 
